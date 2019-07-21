@@ -1,2 +1,9 @@
 # Audio-and-Guitar-Effects
-implementation of common audio effects
+
+Implementation of common audio effects in matlab
+
++ Reverb
++ Chorus
++ Echo
++ Tremolo
++ Speed change (while preserving pitch)
